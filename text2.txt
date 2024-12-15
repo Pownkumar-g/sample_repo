@@ -1,1 +1,1 @@
-this is second file
+after post it in git now i changed the text.
